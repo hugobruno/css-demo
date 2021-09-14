@@ -1,0 +1,29 @@
+/*body {
+    background-color: gold;
+}*/
+
+h1 {
+    color: #323232;
+    text-align: center;
+}
+/* p{
+    color: green;
+} */
+.p-large{
+    font-size: 12px;
+}
+.p-green{
+    color: green;
+    text-align: center;
+    background-color: goldenrod ;
+}
+.p-blue{
+    color: beige;
+    text-align: center;
+    background-color: goldenrod ;
+  
+}
+#title{
+    color:maroon;
+
+}

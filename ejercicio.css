@@ -1,0 +1,23 @@
+body {
+    background-image: url("https://i.pinimg.com/originals/d8/47/24/d84724f41ba98c5b61a82a6071b11da3.gif")
+}
+
+.p-mario{
+    color: whitesmoke;
+    text-align: center;
+    background-color: black ;
+}
+
+.p-bowser{
+    color: whitesmoke;
+    text-align: center;
+    background-color: black ;
+}
+.p1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    color: whitesmoke;
+    text-align: center;
+    background-color:goldenrod ;
+  }
+
+
