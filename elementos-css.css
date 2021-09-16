@@ -1,0 +1,29 @@
+body{
+    background-image: url("");
+    background-size: cover;
+   
+}
+.title{
+    text-align: center;
+    color: royalblue;
+    background-color: black;
+    border: 2px dashed red;
+    margin: 15px;
+}
+.subtitle{
+    text-align: center;
+    padding: 0ch;
+    background-color: green;
+    margin: 0px; 
+}
+#caja {
+    background-color: green;
+    width: 400px;
+    height: 400px;
+    margin: 0;
+
+    
+}
+#caja p, #caja3 {
+    color:black;
+}
