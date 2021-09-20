@@ -1,0 +1,38 @@
+body{
+    background: rgb(227, 227, 227);
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+    height: 500px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: flex-start;
+
+}
+.caja{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja1{
+    border: 2px solid red;
+
+}
+
+.caja2{
+    border: 2px solid lightgreen;
+    align-self: flex-end;
+
+}
+.caja3{
+    border: 2px solid blue;
+
+}
+.caja4{
+    border: 2px solid chartreuse;
+}
